@@ -1,4 +1,7 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20<img width="608" alt="hasil form update" src="https://user-images.githubusercontent.com/86046191/177375903-850f5182-b282-4602-a1a2-75caa24d042d.PNG">
+<img width="960" alt="hasil index" src="https://user-images.githubusercontent.com/86046191/177375912-acabc3aa-fb13-4e3b-a5ca-7ee272b2bf3d.PNG">
+<img width="960" alt="hasil update" src="https://user-images.githubusercontent.com/86046191/177375915-63833e7a-7fd8-4be8-b45b-05b1a3f41551.PNG">
+Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
